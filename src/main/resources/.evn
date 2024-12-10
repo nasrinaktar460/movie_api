@@ -1,0 +1,7 @@
+Mongo_DATABASE=movie-api-db
+Mongo_USER=nasrinaktarsnt
+Mongo_PASSWORD=Atlas%40123runi
+Mongo_CLUSTER="cluster0.zwso6.mongodb.net"
+
+
+
